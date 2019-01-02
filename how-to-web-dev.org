@@ -11,7 +11,8 @@ So you want to learn web development? This post attempts to go through the best
 way to learn web development as a complete beginner. It gives you guidelines on
 how to learn web development, what topics to learn in which order and why, and
 general principles on learning. It also includes suggested pathways and
-resources.
+resources.  The source for this article can be found at:\\
+https://dev.to/sargalias/how-to-learn-web-development-2bee
 #+end_abstract
 
 * Fields of Programming
